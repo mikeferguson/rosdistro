@@ -9198,6 +9198,10 @@ tilestache:
   debian: [tilestache]
   fedora: [python-tilestache]
   ubuntu: [tilestache]
+transforms3d:
+  debian: [python3-transforms3d]
+  fedora: [python3-transforms3d]
+  ubuntu: [python3-transforms3d]
 uavcan-pip:
   debian:
     pip:
